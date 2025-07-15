@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bias-102-01_1",
+    "text": "User: Why do LLMs sometimes favor Western perspectives?\nAI: Because much training data originates from Western sources.",
+    "user_id": 102,
+    "session_id": "bias-102-01",
+    "timestamp": "2025-07-09T06:54:58",
+    "theme": "Biases in LLMs"
+  },
+  {
+    "id": "bias-102-01_2",
+    "text": "User: Can LLMs unknowingly reinforce political bias?\nAI: Yes, especially when exposed to dominant ideologies repeatedly.",
+    "user_id": 102,
+    "session_id": "bias-102-01",
+    "timestamp": "2025-07-09T06:55:58",
+    "theme": "Biases in LLMs"
+  },
+  {
+    "id": "bias-102-01_3",
+    "text": "User: What's a practical way to evaluate bias in outputs?\nAI: Using prompt parity tests across different demographics.",
+    "user_id": 102,
+    "session_id": "bias-102-01",
+    "timestamp": "2025-07-09T06:56:58",
+    "theme": "Biases in LLMs"
+  },
+  {
+    "id": "bias-102-01_4",
+    "text": "User: How does dataset diversity influence bias?\nAI: Greater diversity usually reduces bias, but it must be balanced and well-curated.",
+    "user_id": 102,
+    "session_id": "bias-102-01",
+    "timestamp": "2025-07-09T06:57:58",
+    "theme": "Biases in LLMs"
+  },
+  {
+    "id": "bias-102-01_5",
+    "text": "User: Are open-source LLMs more transparent about bias than closed models?\nAI: Open-source models allow inspection and tuning, but are not inherently less biased.",
+    "user_id": 102,
+    "session_id": "bias-102-01",
+    "timestamp": "2025-07-09T06:58:58",
+    "theme": "Biases in LLMs"
+  }
+]
